@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-h5v4xc.citysinglescommunity.com/sitemap.xml
